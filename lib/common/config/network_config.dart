@@ -1,0 +1,9 @@
+const String WEBSITE_URL = "https://ursuperstar.com/";
+const String WP_JSON = "wp-json/";
+const String BASE_URL = WEBSITE_URL + WP_JSON;
+const String BUDDYBOSS = "buddyboss/";
+const String WORD_PRESS = "wp/";
+const String API_VERSION1 = "v1";
+const String API_VERSION2 = "v2";
+const String BB1 = BUDDYBOSS + API_VERSION1;
+const String WP2 = WORD_PRESS + API_VERSION2;
